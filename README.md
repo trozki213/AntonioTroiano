@@ -18,8 +18,8 @@
 
 ## 🛠 Tech & Tools
 - **Programming**: Python, C, R, LaTeX  
-- **AI/ML Frameworks**: scikit-learn, PyTorch basic
-- **Other Tools**: Jupyter, VS Code
+- **AI/ML Frameworks**: scikit-learn, PyTorch (basic), NumPy, pandas, matplotlib  
+- **Other Tools**: Jupyter, VS Code, Git  
 
 ---
 
@@ -33,5 +33,6 @@
 
 💡 Driven by curiosity and research, I aim to bridge **theoretical foundations** with **real-world applications** of AI and ML.  
 🌍 Open to collaborations in Machine Learning, Robotics, Security, and interdisciplinary AI research.  
+
  
 
