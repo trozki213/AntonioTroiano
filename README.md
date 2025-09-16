@@ -19,7 +19,7 @@
 ## 🛠 Tech & Tools
 - **Programming**: Python, C, R, LaTeX  
 - **AI/ML Frameworks**: scikit-learn, PyTorch (basic), NumPy, pandas, matplotlib  
-- **Other Tools**: Jupyter, VS Code, Git  
+- **Other Tools**: Jupyter, VS Code
 
 ---
 
