@@ -28,7 +28,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white)  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
@@ -40,14 +39,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=trozki213&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trozki213&layout=compact&theme=radical)
-
----
-
-💡 Curiosity-driven, I strive to bridge **theoretical foundations** with **real-world impact** through AI and ML research.  
+💡 *“Artificial Intelligence is not just about building intelligent machines, but about using intelligence to build a better world.”*   
 🌍 Open to collaborations in Machine Learning, Robotics, Security, and interdisciplinary AI applications.  
+
 
  
 
