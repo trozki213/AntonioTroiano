@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Antonio Troiano
 
-🎓 3ʳᵈ year BSc student in Mathematical and Computing Sciences for Artificial Intelligence @ Bocconi University  
+🎓 BSc student in Mathematical and Computing Sciences for Artificial Intelligence @ Bocconi University  
 🔬 Passionate about Artificial Intelligence and Machine Learning across multiple domains  
 🌟 Exploring how intelligent systems can advance robotics, biology, cryptography, and beyond  
 
