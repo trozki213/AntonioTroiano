@@ -17,7 +17,21 @@
 ---
 
 ## 🛠 Tech & Tools
-<img src="https://skillicons.dev/icons?i=python,pytorch,numpy,pandas,matplotlib,jupyter,sqlite,mysql,c,r,latex,git,github,vscode&perline=14&theme=dark&style=flat-square" />
+
+<p align="center">
+  <!-- Skillicons-supported -->
+  <img src="https://skillicons.dev/icons?i=python,pytorch,mysql,sqlite,c,r,latex,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <!-- Custom icons (NumPy, pandas, Matplotlib, Jupyter) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter" />
+</p>
+
+
 ---
 
 ## 🚀 Projects
