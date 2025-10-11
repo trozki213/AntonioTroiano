@@ -38,7 +38,7 @@
 
 - 📰 **Fake News Detection via Text Vectorization *(ongoing)*** — Building and evaluating ML models (Logistic Regression, SVM, Random Forest) for fake-news classification. Applying TF-IDF and Bag-of-Words vectorization to capture linguistic and semantic patterns in news datasets.  
 - 🧬 **Gene Expression & Hypoxia Classification** — EDA + PCA + clustering + ML (RF, SVM, MLP) on single-cell RNA-seq data to classify hypoxic vs normoxic cells.  
-- ❤️ **Heart Attack Risk Study (India)** — Statistical modeling and data-driven insights on cardiovascular disease risk factors.  
+- ❤️ **Heart Attack Risk Study** — Statistical modeling and data-driven insights on cardiovascular disease risk factors.  
 - 📊 **ML Algorithm Comparison** — Evaluated Logistic Regression vs k-NN (EDA, scaling, hyperparameter tuning) on a 1.4k-sample dataset.  
 - 🚜 **Autoencoder-based Onboard Image Segmentation *(ongoing)*** — Designing and training a convolutional autoencoder for semantic segmentation of rural onboard images into 8 terrain classes, evaluated using mean Intersection-over-Union (mIoU).  
 - 🤖 **Towards More Realistic Neural Networks *(ML Research, ongoing)*** — Theoretical ML project studying partially symmetric random connectivity and sparse excitatory couplings to model biologically plausible cortical networks.  
