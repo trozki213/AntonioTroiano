@@ -19,60 +19,22 @@
 ## 🛠 Tech & Tools
 
 <p align="center">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" style="margin: 8px;"/>
-
-  <!-- PyTorch -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" style="margin: 8px;"/>
-
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" style="margin: 8px;"/>
-
-  <!-- pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" style="margin: 8px;"/>
-
-  <!-- Matplotlib -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" style="margin: 8px;"/>
-
-  <!-- Jupyter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" style="margin: 8px;"/>
-
-  <!-- SQL -->
-  <img src="https://raw.githubusercontent.com/trozki213/trozki213/main/assets/sql.png" width="48" height="48" alt="SQL" style="margin: 8px;"/>
-
-  <!-- C -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" style="margin: 8px;"/>
-
-  <!-- R -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R" style="margin: 8px;"/>
-
-  <!-- LaTeX -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" style="margin: 8px;"/>
-
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" style="margin: 8px;"/>
-
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="margin: 8px;"/>
-
-  <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" style="margin: 8px;"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,numpy,pandas,matplotlib,jupyter,mysql,sqlite,c,r,latex,git,github,vscode&theme=dark" />
 </p>
-
-
 
 ---
 
 ## 🚀 Projects
-- **AI/ML Research** → Contributing to interdisciplinary research projects in Artificial Intelligence and Machine Learning, exploring innovative architectures and optimization methods.  
-- **Statistical Study on Heart Attacks in India** → Data-driven analysis of the rising incidence of cardiovascular diseases among young adults. Investigated lifestyle and behavioral risk factors and proposed statistical mitigations.  
-- **Gene Expression & Hypoxia Classification** → Applied PCA, clustering, and supervised ML (Random Forest, SVM, k-NN, Logistic Regression, MLP) to single-cell RNA-seq datasets. Identified consensus gene panels and trained champion models for hypoxia vs normoxia classification.  
-- **Logistic Regression vs k-Nearest Neighbors** → Comparative study of two classical ML algorithms on a dataset of 1400 samples with 30 features. Included EDA, scaling, hyperparameter tuning, and final evaluation to highlight trade-offs between interpretability and performance.  
+- **Gene Expression & Hypoxia Classification** — PCA + clustering + ML (RF, SVM, MLP) on single-cell RNA-seq data to classify hypoxic vs normoxic cells.  
+- **AI/ML Research** — Investigating architectures and optimization for interdisciplinary AI applications.  
+- **Heart Attack Risk Study (India)** — Statistical modeling and data-driven insights on cardiovascular disease risk factors.  
+- **ML Algorithm Comparison** — Evaluated Logistic Regression vs k-NN (EDA, scaling, hyperparameter tuning) on 1.4k-sample dataset.  
 
 ---
 
-💡 *“Artificial Intelligence is not just about building intelligent machines, but about using intelligence to build a better world.”*   
-🌍 Open to collaborations in Machine Learning, Robotics, Security, and interdisciplinary AI applications.  
+💡 *“Artificial Intelligence is not just about building intelligent machines, but about using intelligence to build a better world.”*  
+🌍 Open to collaborations in Machine Learning, Robotics, Security, and interdisciplinary AI applications.
+
 
 
  
