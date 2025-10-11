@@ -18,74 +18,46 @@
 
 ## 🛠 Tech & Tools
 
-<div align="center" style="display:flex; gap:12px; flex-wrap:wrap; justify-content:center;">
-
+<p align="center">
   <!-- Python -->
-  <div style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border-radius:14px; background:#111827; box-shadow:0 2px 8px rgba(0,0,0,.18);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" height="34" alt="Python"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" style="margin: 8px;"/>
 
   <!-- PyTorch -->
-  <div style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border-radius:14px; background:#111827; box-shadow:0 2px 8px rgba(0,0,0,.18);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="34" height="34" alt="PyTorch"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" style="margin: 8px;"/>
 
   <!-- NumPy -->
-  <div style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border-radius:14px; background:#111827; box-shadow:0 2px 8px rgba(0,0,0,.18);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="34" height="34" alt="NumPy"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" style="margin: 8px;"/>
 
   <!-- pandas -->
-  <div style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border-radius:14px; background:#111827; box-shadow:0 2px 8px rgba(0,0,0,.18);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="34" height="34" alt="pandas"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" style="margin: 8px;"/>
 
   <!-- Matplotlib -->
-  <div style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border-radius:14px; background:#111827; box-shadow:0 2px 8px rgba(0,0,0,.18);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="34" height="34" alt="Matplotlib"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" style="margin: 8px;"/>
 
   <!-- Jupyter -->
-  <div style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border-radius:14px; background:#111827; box-shadow:0 2px 8px rgba(0,0,0,.18);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="34" height="34" alt="Jupyter"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" style="margin: 8px;"/>
 
-  <!-- SQL (icona arancione personalizzata) -->
-  <div style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border-radius:14px; background:#111827; box-shadow:0 2px 8px rgba(0,0,0,.18);">
-    <img src="https://raw.githubusercontent.com/trozki213/trozki213/main/assets/sql.png" width="34" height="34" alt="SQL"/>
-  </div>
+  <!-- SQL -->
+  <img src="https://raw.githubusercontent.com/trozki213/trozki213/main/assets/sql.png" width="48" height="48" alt="SQL" style="margin: 8px;"/>
 
   <!-- C -->
-  <div style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border-radius:14px; background:#111827; box-shadow:0 2px 8px rgba(0,0,0,.18);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="34" height="34" alt="C"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" style="margin: 8px;"/>
 
   <!-- R -->
-  <div style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border-radius:14px; background:#111827; box-shadow:0 2px 8px rgba(0,0,0,.18);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="34" height="34" alt="R"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="48" height="48" alt="R" style="margin: 8px;"/>
 
   <!-- LaTeX -->
-  <div style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border-radius:14px; background:#111827; box-shadow:0 2px 8px rgba(0,0,0,.18);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="34" height="34" alt="LaTeX"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" style="margin: 8px;"/>
 
   <!-- Git -->
-  <div style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border-radius:14px; background:#111827; box-shadow:0 2px 8px rgba(0,0,0,.18);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="34" height="34" alt="Git"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" style="margin: 8px;"/>
 
   <!-- GitHub -->
-  <div style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border-radius:14px; background:#111827; box-shadow:0 2px 8px rgba(0,0,0,.18);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="34" height="34" alt="GitHub"/>
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="margin: 8px;"/>
 
   <!-- VS Code -->
-  <div style="width:60px; height:60px; display:flex; align-items:center; justify-content:center; border-radius:14px; background:#111827; box-shadow:0 2px 8px rgba(0,0,0,.18);">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="34" height="34" alt="VS Code"/>
-  </div>
-
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" style="margin: 8px;"/>
+</p>
 
 
 
