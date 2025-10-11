@@ -17,11 +17,7 @@
 ---
 
 ## 🛠 Tech & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,numpy,pandas,matplotlib,jupyter,mysql,sqlite,c,r,latex,git,github,vscode&theme=dark" />
-</p>
-
+<img src="https://skillicons.dev/icons?i=python,pytorch,numpy,pandas,matplotlib,jupyter,sqlite,mysql,c,r,latex,git,github,vscode&perline=14&theme=dark&style=flat-square" />
 ---
 
 ## 🚀 Projects
